@@ -1,10 +1,5 @@
-TIPO / QUANTIDADE / DATA
+DATA   /   QUANTIDADE   /   TIPO
 
-alimento,10kg,28/05/2024
-roupas,10,28/05/2024
-agasalho,6,28/05/2024
-agua,10,29/05/2024
-dinheiro,R$8.000,00,29/05/2024
-alimento,60kg,29/05/2024
-
-
+28/05/2024,    500,    alimento
+28/05/2024,    20,    brinquedo
+28/05/2024,    300,    remédio
