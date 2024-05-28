@@ -25,7 +25,7 @@ class Doacao {
     }
 
     public String toFileString() {
-        return tipo + "," + quantidade + "," + data;
+        return data + ",    " + quantidade + ",    " + tipo;
     }
 }
 
