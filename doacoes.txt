@@ -1,4 +1,10 @@
 TIPO / QUANTIDADE / DATA
 
-alimento,10,20/03/2005
+alimento,10,28/05/2024
+roupas,10,28/05/2024
+agasalho,10,28/05/2024
+agua,10,29/05/2024
+dinheiro,10,29/05/2024
+alimento,10,29/05/2024
+
 
