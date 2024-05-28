@@ -44,7 +44,7 @@ public class RegistroDoacoes {
             System.out.println("3. Sair");
             System.out.print("Escolha uma opção: ");
             opcao = scanner.nextInt();
-            scanner.nextLine(); // Consumir nova linha
+            scanner.nextLine();
 
             switch (opcao) {
                 case 1:
@@ -70,12 +70,11 @@ public class RegistroDoacoes {
 
         System.out.print("Digite a quantidade: ");
         String quantidade = scanner.next();
-        scanner.nextLine(); // Consumir nova linha
+        scanner.nextLine();
 
         System.out.print("Digite a data (dd/MM/yyyy): ");
         String data = scanner.nextLine();
 
-        // Validar a data
         if (!isValidDate(data)) {
             System.out.println("Data inválida. Use o formato dd/MM/yyyy.");
             return;
