@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class RegistroDoacoes {
+public class Main {
     private static ArrayList<Doacao> doacoes = new ArrayList<>();
     private static final String FILENAME = "doacoes.txt";
 
