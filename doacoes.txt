@@ -3,3 +3,8 @@ DATA   /   QUANTIDADE   /   TIPO
 28/05/2024,    500,    alimento
 28/05/2024,    20,    brinquedo
 28/05/2024,    300,    remédio
+28/05/2024,    100kg,    alimento
+28/05/2024,    80kg,    alimento
+28/05/2024,    50kg,    alimento
+28/05/2024,    1kg,    alimento
+28/05/2024,    300,    brinquedo
