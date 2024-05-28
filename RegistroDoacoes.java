@@ -8,27 +8,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-class Doacao {
-    private String tipo;
-    private String quantidade;
-    private String data;
-
-    public Doacao(String tipo, String quantidade, String data) {
-        this.tipo = tipo;
-        this.quantidade = quantidade;
-        this.data = data;
-    }
-
-    @Override
-    public String toString() {
-        return "Doação [Tipo: " + tipo + ", Quantidade: " + quantidade + ", Data: " + data + "]";
-    }
-
-    public String toFileString() {
-        return data + ",    " + quantidade + ",    " + tipo;
-    }
-}
-
 public class RegistroDoacoes {
     private static ArrayList<Doacao> doacoes = new ArrayList<>();
     private static final String FILENAME = "doacoes.txt";
