@@ -1,0 +1,4 @@
+TIPO / QUANTIDADE / DATA
+
+alimento,10,20/03/2005
+
