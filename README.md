@@ -11,3 +11,7 @@ Doação: Armazena os dados das doações feitas. --> "tipo" = String, --> "quan
 RegistroDoações: Gerencia as operações relacionadas ao registro e listagem de doações. --> "doações" = ArrayList, --> "FILENAME" = String
 
 Métodos:
+
+# Requisitos Funcionais #
+
+A Inteligência Artificial deu vários requisitos funcionais, alguns que se encaixam no trabalho e outros que não. Entre os que não encaixavam estão: Cadastro de Doadores, e-mail de agradecimento, controle de acesso e administração. Entre os que encaixavam-se estão: Tela de entrada para doadores, cálculo do total de doações e armazenamento de informação das doações.
