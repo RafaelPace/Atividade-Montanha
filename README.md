@@ -11,6 +11,10 @@ Doação: Armazena os dados das doações feitas. --> "tipo" = String, --> "quan
 RegistroDoações: Gerencia as operações relacionadas ao registro e listagem de doações. --> "doações" = ArrayList, --> "FILENAME" = String
 
 Métodos:
+Registrar Doação (registrarDoacao(Scanner scanner)):
+Listar Doações (listarDoacoes()):
+Validação de Data (isValidDate(String date)):
+Salvar Doação em Arquivo (salvarDoacaoEmArquivo(Doacao doacao)):
 
 # Requisitos Funcionais #
 
